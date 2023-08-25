@@ -1,11 +1,11 @@
-![image](https://github.com/l3hargav/l3hargav/assets/57869429/437529af-deb9-45fb-a93f-046ab8feaf19)<h1 align="center">Hi 👋, I'm Rajsekar Balaji</h1>
+Hi 👋, I'm Rajsekar Balaji</h1>
 <h3 align="center">A passionate front end developer and a Machine Learning Enthusiast</h3>
 
 - 🔭 I’m currently working on [Aircraft-Recognition](https://github.com/l3hargav/Aircraft-Image-Recognition.git)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnRpc2pldmc0ZGhtc25kYm9sZjNja2hiZXUwb3lzdXNia2Q1MzdzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/usXZmmgP9Z7kf39fnq/giphy.gif" />
+<img align="right" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnRpc2pldmc0ZGhtc25kYm9sZjNja2hiZXUwb3lzdXNia2Q1MzdzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/usXZmmgP9Z7kf39fnq/giphy.gif" />
 
 <a href="https://linkedin.com/in/rajsekarbalaji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajsekarbalaji" height="30" width="40" /></a>
 <a href="https://kaggle.com/rajsekarbalaji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rajsekarbalaji" height="30" width="40" /></a>
