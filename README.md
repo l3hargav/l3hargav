@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Rajsekar Balaji</h1>
 <h3 align="center">A passionate front end developer and a Machine Learning Enthusiast</h3>
