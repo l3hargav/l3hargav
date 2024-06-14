@@ -1,7 +1,7 @@
 Hi 👋, I'm Rajsekar Balaji</h1>
-<h3 align="center">A passionate front end developer and a Machine Learning Enthusiast</h3>
+<h3 align="center">A Machine Learning Enthusiast</h3>
 
-- 🔭 I’m currently working on [Aircraft-Recognition](https://github.com/l3hargav/Aircraft-Image-Recognition.git)
+- 🔭 I’m currently working on Understanding Transformers and how they're used in LLM's.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
