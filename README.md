@@ -1,5 +1,5 @@
 Hi 👋, I'm Rajsekar Balaji</h1>
-<h3 align="center">A Machine Learning Enthusiast</h3>
+<h3 align="center">AI is Life</h3>
 
 - 🔭 I’m currently working on Understanding Transformers and how they're used in LLM's.
 
