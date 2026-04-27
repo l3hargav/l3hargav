@@ -1,7 +1,7 @@
 Hi 👋, I'm Rajsekar Balaji</h1>
 <h3 align="center">AI is Life</h3>
 
-- 🔭 I’m currently working on Understanding Transformers and how they're used in LLM's.
+- 🔭 I’m currently working on Understanding diffusion and ways to implement generative concepts in neuroscience. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
